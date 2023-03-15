@@ -1,6 +1,6 @@
 # Project Description
 
-In this project I use used  data manipulation, data visualization and importing & cleaning data skills 
+In this project I used data manipulation, data visualization and importing & cleaning data skills 
 to explore patterns and trends over 100 years worth of Nobel Prize winners.
 The dataset used in this project is from The Nobel Foundation on Kaggle.
 
